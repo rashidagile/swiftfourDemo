@@ -63,6 +63,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        print("test commit....")
         
         if(self.blockTableViewDidSelectAtIndexPath != nil)
         {
@@ -75,6 +76,7 @@ class ViewController: UIViewController {
         }
         
         
+        print("Hello World...")
         
         
     print("View did load \(UIScreen.main.bounds.size.height)")

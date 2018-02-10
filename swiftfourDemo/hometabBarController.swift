@@ -19,6 +19,7 @@ class hometabBarController: UITabBarController {
         
         //self.selectTab(at: 1, animated: false)
         
+        print("new commit...")
         
         
         
