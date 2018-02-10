@@ -26,7 +26,6 @@
 		7E55E2A02021A2CA007C64D7 /* PinchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E29B2021A2C9007C64D7 /* PinchViewController.swift */; };
 		7E55E2A12021A2CA007C64D7 /* RotationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E29C2021A2C9007C64D7 /* RotationViewController.swift */; };
 		7E55E2A22021A2CA007C64D7 /* PanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E29D2021A2CA007C64D7 /* PanViewController.swift */; };
-		7E55E2A32021A2CA007C64D7 /* SwipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E29E2021A2CA007C64D7 /* SwipeViewController.swift */; };
 		7E55E2A42021A2CA007C64D7 /* TapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E29F2021A2CA007C64D7 /* TapViewController.swift */; };
 		7E55E2A62021BCCA007C64D7 /* fileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E2A52021BCCA007C64D7 /* fileViewController.swift */; };
 		7E55E2A82021BE3A007C64D7 /* audioVideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55E2A72021BE3A007C64D7 /* audioVideoViewController.swift */; };
@@ -83,7 +82,6 @@
 		7E55E29B2021A2C9007C64D7 /* PinchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinchViewController.swift; sourceTree = "<group>"; };
 		7E55E29C2021A2C9007C64D7 /* RotationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationViewController.swift; sourceTree = "<group>"; };
 		7E55E29D2021A2CA007C64D7 /* PanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanViewController.swift; sourceTree = "<group>"; };
-		7E55E29E2021A2CA007C64D7 /* SwipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SwipeViewController.swift; path = ../../../Swift3/Swift3/Swift3Demo/Swift3Demo/SwipeViewController.swift; sourceTree = "<group>"; };
 		7E55E29F2021A2CA007C64D7 /* TapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapViewController.swift; sourceTree = "<group>"; };
 		7E55E2A52021BCCA007C64D7 /* fileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fileViewController.swift; sourceTree = "<group>"; };
 		7E55E2A72021BE3A007C64D7 /* audioVideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = audioVideoViewController.swift; sourceTree = "<group>"; };
@@ -215,7 +213,6 @@
 				7E55E29D2021A2CA007C64D7 /* PanViewController.swift */,
 				7E55E29B2021A2C9007C64D7 /* PinchViewController.swift */,
 				7E55E29C2021A2C9007C64D7 /* RotationViewController.swift */,
-				7E55E29E2021A2CA007C64D7 /* SwipeViewController.swift */,
 				7E55E29F2021A2CA007C64D7 /* TapViewController.swift */,
 				7E55E2A52021BCCA007C64D7 /* fileViewController.swift */,
 				7E55E2A72021BE3A007C64D7 /* audioVideoViewController.swift */,
@@ -574,7 +571,6 @@
 				7EA6EB5A1FB9ADB00042C0C5 /* loginViewController.swift in Sources */,
 				7E1174DA200F566600A8E3E6 /* selectPhotoViewController.swift in Sources */,
 				7E55E2A42021A2CA007C64D7 /* TapViewController.swift in Sources */,
-				7E55E2A32021A2CA007C64D7 /* SwipeViewController.swift in Sources */,
 				7E55E2A22021A2CA007C64D7 /* PanViewController.swift in Sources */,
 				7E55E2A82021BE3A007C64D7 /* audioVideoViewController.swift in Sources */,
 				7E55E2A62021BCCA007C64D7 /* fileViewController.swift in Sources */,
